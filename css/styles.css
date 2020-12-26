@@ -1,0 +1,46 @@
+td{
+  text-align: center;
+}
+
+h1{
+  font-size: 40px;
+  color: #fb7813;
+}
+
+h2{
+color: #fb7813;
+}
+body {
+  background-color: lightcyan;
+  color: darkcyan;
+}
+
+h3 {
+  color: #fb7813;
+}
+
+p {font-size: 20px;}
+
+.emoji{
+  background-color: #4cd3c2;
+  border-radius: 20px;
+}
+
+.emoji:hover {
+  background-color: #fb7813;
+}
+
+
+a:hover {
+  color:red;
+}
+
+hr {
+  color: #aacdbe;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 20%
+
+}
+/***this is a random comment*/
